@@ -1,4 +1,4 @@
-package com.nelio.workshopmongo.domain;
+package com.nelioalves.workshopmongo.domain;
 
 import java.io.Serializable;
 
